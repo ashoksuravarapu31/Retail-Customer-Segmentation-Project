@@ -9,35 +9,38 @@ It includes data cleaning, exploratory data analysis (EDA), and RFM (Recency, Fr
 ## 🧰 Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Power BI
-- Excel
+-https://github.com/ashoksuravarapu31/Retail-Customer-Segmentation-Project/edit/main/README.md Excel
 - SQL (conceptual)
 - GitHub
 
 ---
 
 ## 📂 Project Structure
+
+```text
 Retail-Customer-Segmentation-Project/
 │
 ├── data/
-│ ├── retail_sales.xlsx
-│ ├── clean_sales.csv
-│ └── rfm_output.csv
+│   ├── retail_sales.xlsx
+│   ├── clean_sales.csv
+│   └── rfm_output.csv
 │
 ├── scripts/
-│ ├── clean_sales.py
-│ └── eda_analysis.py
+│   ├── clean_sales.py
+│   └── eda_analysis.py
 │
 ├── powerbi/
-│ └── retail_dashboard.pbix
+│   └── retail_dashboard.pbix
 │
 ├── screenshots/
-│ ├── retail_sales_dashboard.jpg
-│ ├── revenue_by_month.jpg
-│ ├── revenue_by_country.jpg
-│ ├── revenue_by_product.jpg
-│ └── rfm_segmentation.jpg
+│   ├── retail_sales_dashboard.jpg
+│   ├── revenue_by_month.jpg
+│   ├── revenue_by_country.jpg
+│   ├── revenue_by_product.jpg
+│   └── rfm_segmentation.jpg
 │
 └── README.md
+```
 
 ---
 
