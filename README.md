@@ -9,7 +9,7 @@ It includes data cleaning, exploratory data analysis (EDA), and RFM (Recency, Fr
 ## 🧰 Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Power BI
--https://github.com/ashoksuravarapu31/Retail-Customer-Segmentation-Project/edit/main/README.md Excel
+-https://github.com/ashoksuravarapu31/Retail-Customer-Segmentation-Project/edit/main/README.md 
 - SQL (conceptual)
 - GitHub
 
