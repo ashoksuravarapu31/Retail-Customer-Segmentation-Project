@@ -102,7 +102,7 @@ Script used:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developed By
 **Ashok Suravarapu**  
 BCA Graduate | Data Analytics Enthusiast
 
