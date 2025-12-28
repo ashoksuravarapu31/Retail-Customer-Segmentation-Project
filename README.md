@@ -38,3 +38,68 @@ Retail-Customer-Segmentation-Project/
 │ └── rfm_segmentation.jpg
 │
 └── README.md
+
+---
+
+## 🧹 Data Cleaning
+- Removed missing and invalid records
+- Handled duplicate transactions
+- Converted invoice dates to datetime format
+- Standardized column names
+
+Script used:
+- `scripts/clean_sales.py`
+
+---
+
+## 🔍 Exploratory Data Analysis (EDA)
+EDA was performed to analyze:
+- Monthly revenue trends
+- Country-wise sales performance
+- Top-selling products
+- Customer purchasing behavior
+
+Script used:
+- `scripts/eda_analysis.py`
+
+---
+
+## 📊 Power BI Dashboard
+
+### 🔹 Dashboard Overview
+![Retail Sales Dashboard](screenshots/retail_sales_dashboard.jpg)
+
+---
+
+### 📈 Total Revenue by Month
+![Revenue by Month](screenshots/revenue_by_month.jpg)
+
+---
+
+### 🌍 Total Revenue by Country
+![Revenue by Country](screenshots/revenue_by_country.jpg)
+
+---
+
+### 🛍 Total Revenue by Product
+![Revenue by Product](screenshots/revenue_by_product.jpg)
+
+---
+
+## 🧮 Customer Segmentation (RFM)
+![RFM Segmentation](screenshots/rfm_segmentation.jpg)
+
+---
+
+## ✅ Key Insights
+- Identified high-value (Champion) customers
+- Detected customers at risk of churn
+- United Kingdom contributed the highest revenue
+- Clear seasonal sales patterns observed
+
+---
+
+## 👨‍💻 Author
+**Ashok Suravarapu**  
+BCA Graduate | Data Analytics Enthusiast
+
